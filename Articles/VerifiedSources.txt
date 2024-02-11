@@ -1,9 +1,21 @@
+
 Online Article databases (with lean library):
 - arxiv.org
 - scholar.google.nl
 - citeseerx.ist.psu.edu
 - scopus.com
 - informatik.uni-trier.de/~ley/db/index.html
+- ieee.org
+- dl.acm.org 
+- link.springer.com 
+- sciencedirect.com 
+- webofknowledge.com 
+- scopus.com 
+- pubmed.gov 
+- dblp.org 
+- aclanthology.org 
+- ssrn.com 
+
 (also check references or search with "cited by" in google scholar)
 
 Lecture Notes:
