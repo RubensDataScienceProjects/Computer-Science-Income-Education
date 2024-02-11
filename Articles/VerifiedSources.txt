@@ -1,0 +1,15 @@
+Online Article databases (with lean library):
+- arxiv.org
+- scholar.google.nl
+- citeseerx.ist.psu.edu
+- scopus.com
+- informatik.uni-trier.de/~ley/db/index.html
+(also check references or search with "cited by" in google scholar)
+
+Lecture Notes:
+- LNCS: UU library + springerlink.com
+- LiPics/DROPS: drops.dagstuhl.de/entities/series/LIPIcs
+- ACM Proceedings: dl.acm.org/proceedings.cfm
+
+
+
