@@ -3,7 +3,6 @@ name: Usersprint Template
 about: Makes the template for the Usersprint
 title: Sprint X
 labels: Sprint
-assignees: GameModes
 
 ---
 
